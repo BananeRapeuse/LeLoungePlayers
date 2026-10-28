@@ -11,15 +11,15 @@
             "include/*.hpp"
         ]
     },
-    "version": "v2.0.1",
-    "id": "iandyhd3.known_players",
-    "name": "Known Players",
-    "developer": "iAndyHD3",
+    "version": "v1.0.0",
+    "id": "frelon111.known_players",
+    "name": "Le Lounge Player",
+    "developer": "Frelon111",
     "tags": [
         "enhancement",
         "offline"
     ],
-    "description": "only known players pop up in the main menu",
+    "description": "only players ",
     "resources": {
         "files": [
             "assets/*.json"
@@ -34,7 +34,7 @@
         }
     },
     "links": {
-        "community": "https://discord.gg/mmVmCtsG5K",
-        "source": "https://github.com/iAndyHD3/KnownPlayers"
+        "community": "https://discord.gg/Tsn7w5QRZ",
+        "source": "https://github.com/BananeRapeuse/LeLoungePlayers"
     }
 }
