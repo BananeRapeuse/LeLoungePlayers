@@ -35,7 +35,7 @@
       "waveID": 17,
       "robotID": 11,
       "spiderID": 27,
-      "iconID": 338,
+      "iconID": 388,
       "color1": 12,
       "color2": 35,
       "glow": false
@@ -52,8 +52,6 @@
       "color1": 103,
       "color2": 16,
       "glow": false
-    },
-    
     }
   ]
 }
